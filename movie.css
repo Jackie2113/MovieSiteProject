@@ -188,11 +188,12 @@ li a{
 .search_bar input{
   width: 200%;
   padding: 10px;
-  border: 1px solid rgb(190, 190, 190);
+  border: 2px solid rgb(190, 190, 190);
+  border-radius: 10px;
 }
 
 .search_bar input:focus{
-  border: 1px solid blueviolet;
+  border: 2px solid blueviolet;
 }
 
 .fas{
@@ -258,7 +259,7 @@ li a{
 .movie{
   width: 300px;
   margin: 1rem;
-  border-radius: 3px;
+  border-radius: 10px;
   box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
