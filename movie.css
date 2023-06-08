@@ -137,14 +137,25 @@ li a{
 }
 
 .header-top{
-  width: 100%;
-  background-color: #394559;
-  padding: 10px;
-  text-align: center;
+  /* background-color: #394559; */
   font-size: 18px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: rgb(255, 255, 255);
+  color: #fff;
+  text-align: center;
+  width: fit-content;
+  padding: 2px 10px 2px 10px;
+  background-color: rgb(0, 0, 0);
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
 
 .header-body{
@@ -157,10 +168,16 @@ li a{
   width: fit-content;
   padding: 2px 10px 2px 10px;
   background-color: rgb(0, 0, 0);
-  border-radius: 5px;
   justify-content: center;
   align-items: center;
   margin: 10px auto;
+
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
 
 .search_bar {
@@ -177,16 +194,6 @@ li a{
 .search_bar input:focus{
   border: 1px solid blueviolet;
 }
-
-/* .search_bar select{
-  border: 1px solid rgb(190, 190, 190);
-  padding: 10px;
-  margin-left: 2rem;
-}
-
-.search_bar .filter{
-  width: 300px;
-} */
 
 .fas{
   position: relative;
@@ -227,7 +234,7 @@ li a{
   background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1));
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  border-radius: 20px;
+  border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
