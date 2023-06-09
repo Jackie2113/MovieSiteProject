@@ -22,3 +22,7 @@ The entire coding was done in **Visual Studio Code** with **Mozilla Firefox** as
 1. logo.jpeg: Error picture in case the movie poster isn't available
 2. logo2.jpeg: Website icon(Hackstack)
 3. kimlong-lehoang-14.jpeg: Background image of the website
+
+## Issues
+
+1. Apparently Mozilla doesn't support Webkit so customization such as scrollbars can't be done as of now
