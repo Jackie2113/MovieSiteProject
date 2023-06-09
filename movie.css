@@ -273,6 +273,7 @@ li a{
   padding: 0.5rem 1rem 1rem;
   letter-spacing: 0.5px;
 
+  /* glass effect */
   background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1));
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -326,4 +327,37 @@ li a{
 
 h1{
   margin: 20px 10px;
+}
+
+/* footer */
+
+.pagination{
+  display: flex;
+  margin: 10px 30px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+.page{
+  padding: 20px;
+  cursor: pointer;
+}
+
+.page.disabled{
+  cursor: not-allowed;
+  color: grey;
+}
+
+.current{
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: 600;
+
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
