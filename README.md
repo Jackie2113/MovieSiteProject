@@ -1,7 +1,7 @@
 # MovieSiteProject
 
 This is a project for the completion of the workshop for **HTML/CSS/JS** by **HackStack** conducted by **IIT Guwahati**.
-The entire coding was done in **Visual Studio Code** with **Mozilla Firefox** as the web browser selected to host the website.
+The entire coding was done in **Visual Studio Code** with ==**Mozilla Firefox**== as the web browser selected to host the website.
 
 ## Features
 
@@ -22,5 +22,3 @@ The entire coding was done in **Visual Studio Code** with **Mozilla Firefox** as
 1. logo.jpeg: Error picture in case the movie poster isn't available
 2. logo2.jpeg: Website icon(Hackstack)
 3. kimlong-lehoang-14.jpeg: Background image of the website
-
-<style>H1{color:Blue;}</style>
