@@ -361,3 +361,18 @@ h1{
   border: 1px solid rgba(255, 255, 255, 0.18);
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
+
+/* ::-webkit-scrollbar{
+  width: 0;
+}
+
+#progressbar
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 15px;
+  border-radius: 10px;
+  background: linear-gradient(to top, #fcb045,#fd1d1d,#833ab4);
+} */
