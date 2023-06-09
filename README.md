@@ -14,7 +14,7 @@ This is a project for the completion of the workshop for HTML/CSS/JS by HackStac
 1. movie.html
 2. movie.css
 3. movie.js
-4. MovieSiteProject_video: Demo on how the website works
+4. MovieSiteProject_video_Jacob.mp4: Demo video on how the website works
 
 ## Images used
 
