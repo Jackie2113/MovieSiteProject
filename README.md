@@ -1,7 +1,7 @@
 # MovieSiteProject
 
 This is a project for the completion of the workshop for **HTML/CSS/JS** by **HackStack** conducted by **IIT Guwahati**.
-The entire coding was done in **Visual Studio Code** with **Mozilla Firefox** as the web browser selected to host the website.
+The entire coding is done in **Visual Studio Code** with **Mozilla Firefox** as the web browser selected to host the website.
 
 ## Features
 
