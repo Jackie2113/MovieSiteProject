@@ -23,6 +23,4 @@ The entire coding was done in **Visual Studio Code** with **Mozilla Firefox** as
 2. logo2.jpeg: Website icon(Hackstack)
 3. kimlong-lehoang-14.jpeg: Background image of the website
 
-<span style="color:red">
-Text content
-</span>
+<style>H1{color:Blue;}</style>
